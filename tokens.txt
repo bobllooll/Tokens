@@ -1,2 +1,2 @@
-123  hallo end 
+123  0 1 0 1 0 1 0 end 
 362  yeahhh
