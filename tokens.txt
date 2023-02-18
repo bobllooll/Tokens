@@ -17,3 +17,4 @@ Start msg: 0 key: 0 Ende
 123 123
 123 [object Object]123
 123 [object Object]123
+123 [{"msg":"0","key":"0"}]123
